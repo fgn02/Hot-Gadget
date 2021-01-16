@@ -8,8 +8,7 @@
     padding: 10px 18px;
     color: white;
     border: none;
-    text-align: center;
-    margin-left: 120px;
+   
 }
 .bg{
     background-image: url(hot-gadgets/bg-1.png);
@@ -53,5 +52,25 @@ hr{
     text-align: center;
 }
 .card-body p{
+    text-align: center;
+}
+#cata{
+    text-align: center;
+}
+.boxs{
+    width: 200px;
+    height: 200px;
+}
+.boxs{
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 10px;
+}
+#cats img{
+    max-width: 400px;
+    max-height: 550px;
+    padding: 50px;
+    margin-top: 10px;
+}
+footer{
     text-align: center;
 }
